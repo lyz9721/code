@@ -1,0 +1,8 @@
+bin/
+.vscode/
+tmp.c
+tmp.cc
+*.swp
+_*
+a.out
+
